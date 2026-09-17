@@ -94,9 +94,9 @@ From the preprocessed image moving objects are extracted. A vehicle classificati
 
 Fig: MobileNet Body Architecture.
 
-![Parameter Trainning](images/trainning.png)
+![Parameter Trainning](https://github.com/maheshy8/violation-test/blob/5703cbed2fc7c949ed5e741a13c8675a4ee50249/fig2.png)
 
-Fig-2: ![image alt](https://github.com/maheshy8/violation-test/blob/6340908eae42de9b043e1d5b9168db983a450ad6/fig2.png.)
+Fig-2: ![image alt](https://github.com/maheshy8/violation-test/blob/5703cbed2fc7c949ed5e741a13c8675a4ee50249/fig2.png)
 
 Transfer learning approach is used to training the model with our dataset.The dataset consists of 500  images per class. The training parameters are mentioned in table (2).
 
